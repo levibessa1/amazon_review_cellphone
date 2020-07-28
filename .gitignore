@@ -1,0 +1,11 @@
+*.zip
+*.pdf
+*.csv
+*.pickle
+*.md
+*.txt
+cleanData.py
+ANALISE__LEVI_BESSA.ipynb
+bemoldigital.png
+__pycache__/
+.ipynb_checkpoints/
